@@ -1,2 +1,22 @@
 # Dependencies
 /node_modules
+
+# Build artifact
+/main.js
+
+# IDE settings
+.idea/
+.vscode/
+
+# Obsidian vault settings
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/app.json
+.obsidian/hotkeys.json
+.obsidian/community-plugins.json
+.obsidian/graph.json
+.obsidian/starred.json
+.obsidian/plugins/
+
+# Roadmap
+2025 - Roadmap - Standup Kit Obsidian Plugin.md
