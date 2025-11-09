@@ -1,0 +1,10 @@
+{
+    "id": "standup-kit",
+    "name": "Standup Kit",
+    "version": "0.1.0",
+    "minAppVersion": "0.12.0",
+    "description": "A plugin for comedians to write, rehearse, and perform standup comedy.",
+    "author": "Your Name",
+    "authorUrl": "https://your-website.com",
+    "isDesktopOnly": false
+}

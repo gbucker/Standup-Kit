@@ -1,0 +1,31 @@
+/* styles.css */
+.cm-s-obsidian .cm-line .cm-joke-punchline {
+    font-weight: bold;
+    color: #a6e22e; /* Green */
+}
+
+.cm-s-obsidian .cm-line .cm-joke-tag {
+    color: #f4bf75; /* Yellow */
+    padding-left: 20px;
+    display: block;
+}
+
+.cm-s-obsidian .cm-line .cm-joke-tag-2 {
+    padding-left: 40px;
+    display: block;
+}
+
+.cm-s-obsidian .cm-line .cm-joke-tag-3 {
+    padding-left: 60px;
+    display: block;
+}
+
+.cm-s-obsidian .cm-line .cm-performance-note {
+    font-style: italic;
+    color: #75715e; /* Dimmed */
+}
+
+.cm-s-obsidian .cm-line .cm-joke-boneyard {
+    text-decoration: line-through;
+    color: #75715e; /* Dimmed */
+}
